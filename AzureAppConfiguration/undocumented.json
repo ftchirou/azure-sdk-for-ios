@@ -1,0 +1,250 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClient.swift",
+      "line": 31,
+      "symbol": "AppConfigurationClient",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClient.swift",
+      "line": 32,
+      "symbol": "AppConfigurationClient.ApiVersion",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClient.swift",
+      "line": 33,
+      "symbol": "AppConfigurationClient.ApiVersion.latest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClient.swift",
+      "line": 36,
+      "symbol": "AppConfigurationClient.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClient.swift",
+      "line": 50,
+      "symbol": "AppConfigurationClient.from(connectionString:withOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClient.swift",
+      "line": 80,
+      "symbol": "AppConfigurationClient.listConfigurationSettings(forKey:forLabel:then:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClientOptions.swift",
+      "line": 30,
+      "symbol": "AppConfigurationClientOptions",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClientOptions.swift",
+      "line": 31,
+      "symbol": "AppConfigurationClientOptions.apiVersion",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClientOptions.swift",
+      "line": 32,
+      "symbol": "AppConfigurationClientOptions.logger",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClientOptions.swift",
+      "line": 33,
+      "symbol": "AppConfigurationClientOptions.tag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/AppConfigurationClientOptions.swift",
+      "line": 35,
+      "symbol": "AppConfigurationClientOptions.init(apiVersion:logger:tag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Credentials/AppConfigurationClientCredentials.swift",
+      "line": 32,
+      "symbol": "AppConfigurationCredential",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Credentials/AppConfigurationClientCredentials.swift",
+      "line": 37,
+      "symbol": "AppConfigurationCredential.init(connectionString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Credentials/AppConfigurationClientCredentials.swift",
+      "line": 73,
+      "symbol": "AppConfigurationAuthenticationPolicy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Credentials/AppConfigurationClientCredentials.swift",
+      "line": 74,
+      "symbol": "AppConfigurationAuthenticationPolicy.next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Credentials/AppConfigurationClientCredentials.swift",
+      "line": 75,
+      "symbol": "AppConfigurationAuthenticationPolicy.scopes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Credentials/AppConfigurationClientCredentials.swift",
+      "line": 76,
+      "symbol": "AppConfigurationAuthenticationPolicy.credential",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Credentials/AppConfigurationClientCredentials.swift",
+      "line": 78,
+      "symbol": "AppConfigurationAuthenticationPolicy.init(credential:scopes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Credentials/AppConfigurationClientCredentials.swift",
+      "line": 83,
+      "symbol": "AppConfigurationAuthenticationPolicy.authenticate(request:then:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Headers.swift",
+      "line": 30,
+      "symbol": "AppConfigurationHeader",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Headers.swift",
+      "line": 31,
+      "symbol": "AppConfigurationHeader.contentHash",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Headers.swift",
+      "line": 35,
+      "symbol": "HTTPHeaders.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Headers.swift",
+      "line": 45,
+      "symbol": "HTTPHeaders.removeValue(forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 30,
+      "symbol": "ConfigurationSetting",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 31,
+      "symbol": "ConfigurationSetting.key",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 32,
+      "symbol": "ConfigurationSetting.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 33,
+      "symbol": "ConfigurationSetting.label",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 34,
+      "symbol": "ConfigurationSetting.tags",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 35,
+      "symbol": "ConfigurationSetting.contentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 36,
+      "symbol": "ConfigurationSetting.etag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 37,
+      "symbol": "ConfigurationSetting.locked",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 38,
+      "symbol": "ConfigurationSetting.lastModified",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSetting.swift",
+      "line": 40,
+      "symbol": "ConfigurationSetting.emptyLabel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSettingPutParameters.swift",
+      "line": 29,
+      "symbol": "ConfigurationSettingPutParameters",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/appconfiguration/AzureAppConfiguration/Source/Models/ConfigurationSettingPutParameters.swift",
+      "line": 34,
+      "symbol": "ConfigurationSettingPutParameters.init(withConfigurationSetting:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/brsiegel/source/repos/azure-sdk/ios"
+}

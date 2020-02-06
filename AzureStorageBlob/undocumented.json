@@ -1,0 +1,1069 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 29,
+      "symbol": "LeaseAccessConditions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 30,
+      "symbol": "LeaseAccessConditions.leaseId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 33,
+      "symbol": "ModifiedAccessConditions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 34,
+      "symbol": "ModifiedAccessConditions.ifModifiedSince",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 35,
+      "symbol": "ModifiedAccessConditions.ifUnmodifiedSince",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 36,
+      "symbol": "ModifiedAccessConditions.ifMatch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 37,
+      "symbol": "ModifiedAccessConditions.ifNoneMatch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 40,
+      "symbol": "RangeOptions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 57,
+      "symbol": "RangeOptions.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 60,
+      "symbol": "DestinationOptions",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 71,
+      "symbol": "DestinationOptions.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 74,
+      "symbol": "EncryptionOptions",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 88,
+      "symbol": "EncryptionOptions.init(key:keyResolver:required:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 95,
+      "symbol": "CpkInfo",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 96,
+      "symbol": "CpkInfo.key",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 98,
+      "symbol": "CpkInfo.hash",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 103,
+      "symbol": "CpkInfo.algorithm",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 133,
+      "symbol": "CustomerProvidedEncryptionKey.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/Options.swift",
+      "line": 163,
+      "symbol": "UserDelegationKey.init(signedOID:signedTID:signedStart:signedExpiry:signedService:signedVersion:value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/StorageStreamDownloader.swift",
+      "line": 212,
+      "symbol": "BlobDownloadProgress",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/StorageStreamDownloader.swift",
+      "line": 213,
+      "symbol": "BlobDownloadProgress.bytes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/StorageStreamDownloader.swift",
+      "line": 214,
+      "symbol": "BlobDownloadProgress.totalBytes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/StorageStreamDownloader.swift",
+      "line": 215,
+      "symbol": "BlobDownloadProgress.percentProgress",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/StorageStreamDownloader.swift",
+      "line": 220,
+      "symbol": "BlobDownloadDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/StorageStreamDownloader.swift",
+      "line": 221,
+      "symbol": "BlobDownloadDelegate.downloader(_:didUpdateWithProgress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/StorageStreamDownloader.swift",
+      "line": 222,
+      "symbol": "BlobDownloadDelegate.downloader(_:didFinishWithProgress:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/DataStructures/StorageStreamDownloader.swift",
+      "line": 229,
+      "symbol": "BlobStreamDownloader.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 32,
+      "symbol": "StorageHTTPHeader.blobSequenceNumber",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 33,
+      "symbol": "StorageHTTPHeader.blobType",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 34,
+      "symbol": "StorageHTTPHeader.contentCRC64",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 35,
+      "symbol": "StorageHTTPHeader.contentMD5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 36,
+      "symbol": "StorageHTTPHeader.copyCompletionTime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 37,
+      "symbol": "StorageHTTPHeader.copyId",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 38,
+      "symbol": "StorageHTTPHeader.copyProgress",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 39,
+      "symbol": "StorageHTTPHeader.copySource",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 40,
+      "symbol": "StorageHTTPHeader.copyStatus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 41,
+      "symbol": "StorageHTTPHeader.copyStatusDescription",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 42,
+      "symbol": "StorageHTTPHeader.creationTime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 43,
+      "symbol": "StorageHTTPHeader.serverEncrypted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 44,
+      "symbol": "StorageHTTPHeader.leaseDuration",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 45,
+      "symbol": "StorageHTTPHeader.leaseState",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 46,
+      "symbol": "StorageHTTPHeader.leaseStatus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 50,
+      "symbol": "HTTPHeaders.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Headers.swift",
+      "line": 60,
+      "symbol": "HTTPHeaders.removeValue(forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 30,
+      "symbol": "BlobItem",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 31,
+      "symbol": "BlobItem.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 32,
+      "symbol": "BlobItem.deleted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 33,
+      "symbol": "BlobItem.snapshot",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 34,
+      "symbol": "BlobItem.metadata",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 35,
+      "symbol": "BlobItem.properties",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 37,
+      "symbol": "BlobItem.init(name:deleted:snapshot:metadata:properties:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 51,
+      "symbol": "BlobItem.xmlMap()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobItem.swift",
+      "line": 62,
+      "symbol": "BlobItem",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 30,
+      "symbol": "BlobProperties",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 31,
+      "symbol": "BlobProperties.creationTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 32,
+      "symbol": "BlobProperties.lastModified",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 33,
+      "symbol": "BlobProperties.eTag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 34,
+      "symbol": "BlobProperties.contentLength",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 35,
+      "symbol": "BlobProperties.contentType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 36,
+      "symbol": "BlobProperties.contentDisposition",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 37,
+      "symbol": "BlobProperties.contentEncoding",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 38,
+      "symbol": "BlobProperties.contentLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 39,
+      "symbol": "BlobProperties.contentMD5",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 40,
+      "symbol": "BlobProperties.contentCRC64",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 41,
+      "symbol": "BlobProperties.cacheControl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 42,
+      "symbol": "BlobProperties.sequenceNumber",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 43,
+      "symbol": "BlobProperties.blobType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 44,
+      "symbol": "BlobProperties.accessTier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 45,
+      "symbol": "BlobProperties.leaseStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 46,
+      "symbol": "BlobProperties.leaseState",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 47,
+      "symbol": "BlobProperties.leaseDuration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 48,
+      "symbol": "BlobProperties.copyId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 49,
+      "symbol": "BlobProperties.copyStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 50,
+      "symbol": "BlobProperties.copySource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 51,
+      "symbol": "BlobProperties.copyProgress",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 52,
+      "symbol": "BlobProperties.copyCompletionTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 53,
+      "symbol": "BlobProperties.copyStatusDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 54,
+      "symbol": "BlobProperties.serverEncrypted",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 55,
+      "symbol": "BlobProperties.incrementalCopy",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 56,
+      "symbol": "BlobProperties.accessTierInferred",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 57,
+      "symbol": "BlobProperties.accessTierChangeTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 58,
+      "symbol": "BlobProperties.deletedTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 59,
+      "symbol": "BlobProperties.remainingRetentionDays",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 61,
+      "symbol": "BlobProperties.init(creationTime:lastModified:eTag:contentLength:contentType:contentDisposition:contentEncoding:contentLanguage:contentMD5:contentCRC64:cacheControl:sequenceNumber:blobType:accessTier:leaseStatus:leaseState:leaseDuration:copyId:copyStatus:copySource:copyProgress:copyCompletionTime:copyStatusDescription:serverEncrypted:incrementalCopy:accessTierInferred:accessTierChangeTime:deletedTime:remainingRetentionDays:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 123,
+      "symbol": "BlobProperties.xmlMap()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/BlobProperties.swift",
+      "line": 195,
+      "symbol": "BlobProperties",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerItem.swift",
+      "line": 32,
+      "symbol": "ContainerItem",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerItem.swift",
+      "line": 33,
+      "symbol": "ContainerItem.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerItem.swift",
+      "line": 34,
+      "symbol": "ContainerItem.properties",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerItem.swift",
+      "line": 36,
+      "symbol": "ContainerItem.init(name:properties:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerItem.swift",
+      "line": 41,
+      "symbol": "ContainerItem.xmlMap()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 30,
+      "symbol": "ContainerProperties",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 31,
+      "symbol": "ContainerProperties.lastModified",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 32,
+      "symbol": "ContainerProperties.eTag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 33,
+      "symbol": "ContainerProperties.leaseStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 34,
+      "symbol": "ContainerProperties.leaseState",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 35,
+      "symbol": "ContainerProperties.leaseDuration",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 36,
+      "symbol": "ContainerProperties.hasImmutabilityPolicy",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 37,
+      "symbol": "ContainerProperties.hasLegalHold",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 39,
+      "symbol": "ContainerProperties.init(lastModified:eTag:leaseStatus:leaseState:leaseDuration:hasImmutabilityPolicy:hasLegalHold:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 57,
+      "symbol": "ContainerProperties.xmlMap()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/ContainerProperties.swift",
+      "line": 70,
+      "symbol": "ContainerProperties",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 29,
+      "symbol": "AccessTier",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 30,
+      "symbol": "AccessTier.cold",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 30,
+      "symbol": "AccessTier.hot",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 33,
+      "symbol": "BlobType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 34,
+      "symbol": "BlobType.block",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 35,
+      "symbol": "BlobType.page",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 36,
+      "symbol": "BlobType.append",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 39,
+      "symbol": "CopyStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 40,
+      "symbol": "CopyStatus.aborted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 40,
+      "symbol": "CopyStatus.failed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 40,
+      "symbol": "CopyStatus.pending",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 40,
+      "symbol": "CopyStatus.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 43,
+      "symbol": "LeaseDuration",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 44,
+      "symbol": "LeaseDuration.fixed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 44,
+      "symbol": "LeaseDuration.infinite",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 47,
+      "symbol": "LeaseState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 48,
+      "symbol": "LeaseState.available",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 48,
+      "symbol": "LeaseState.breaking",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 48,
+      "symbol": "LeaseState.broken",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 48,
+      "symbol": "LeaseState.expired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 48,
+      "symbol": "LeaseState.leased",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 51,
+      "symbol": "LeaseStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 52,
+      "symbol": "LeaseStatus.locked",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 52,
+      "symbol": "LeaseStatus.unlocked",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 55,
+      "symbol": "LocationMode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 56,
+      "symbol": "LocationMode.primary",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Models/Enumerations.swift",
+      "line": 56,
+      "symbol": "LocationMode.secondary",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClient.swift",
+      "line": 38,
+      "symbol": "StorageBlobClient.ApiVersion.latest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClient.swift",
+      "line": 57,
+      "symbol": "StorageBlobClient.options",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClient.swift",
+      "line": 65,
+      "symbol": "StorageBlobClient.continuationUrl(continuationToken:queryParams:requestUrl:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 32,
+      "symbol": "StorageBlobClientOptions.apiVersion",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 33,
+      "symbol": "StorageBlobClientOptions.logger",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 34,
+      "symbol": "StorageBlobClientOptions.tag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 37,
+      "symbol": "StorageBlobClientOptions.maxSinglePutSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 38,
+      "symbol": "StorageBlobClientOptions.copyPollingInterval",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 41,
+      "symbol": "StorageBlobClientOptions.maxBlockSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 42,
+      "symbol": "StorageBlobClientOptions.minLargeBlockUploadThreshold",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 43,
+      "symbol": "StorageBlobClientOptions.useByteBuffer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 46,
+      "symbol": "StorageBlobClientOptions.maxSingleGetSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 47,
+      "symbol": "StorageBlobClientOptions.maxChunkGetSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 49,
+      "symbol": "StorageBlobClientOptions.init(apiVersion:logger:tag:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 60,
+      "symbol": "ListContainersOptions.ListContainersInclude.metadata",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 80,
+      "symbol": "ListBlobsOptions.ListBlobsInclude.copy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 80,
+      "symbol": "ListBlobsOptions.ListBlobsInclude.deleted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 80,
+      "symbol": "ListBlobsOptions.ListBlobsInclude.metadata",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 80,
+      "symbol": "ListBlobsOptions.ListBlobsInclude.snapshots",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/StorageBlobClientOptions.swift",
+      "line": 80,
+      "symbol": "ListBlobsOptions.ListBlobsInclude.uncommittedblobs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Util/BlobHeadersAndQueryParameters.swift",
+      "line": 31,
+      "symbol": "BlobHeadersAndQueryParameters",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Util/BlobHeadersAndQueryParameters.swift",
+      "line": 32,
+      "symbol": "BlobHeadersAndQueryParameters.headers",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/storage/AzureStorageBlob/Source/Util/BlobHeadersAndQueryParameters.swift",
+      "line": 58,
+      "symbol": "BlobHeadersAndQueryParameters.queryParameters",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/brsiegel/source/repos/azure-sdk/ios"
+}
